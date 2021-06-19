@@ -1,6 +1,8 @@
 Nico from Berlin, math nerd and top-tier software engineer.
 
-<img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
+<a href="https://github.com/nschloe/optimesh">
+  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
+</a>
 
 ### Languages
 
