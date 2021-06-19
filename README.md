@@ -1,4 +1,4 @@
-Nico from Berlin, math nerd and S+ tier software engineer.
+Nico from Berlin, math nerd and top-tier software engineer.
 
 ### Languages
 
