@@ -16,7 +16,12 @@ Nico from Berlin, math nerd and top-tier software engineer.
  * 🚀 performance: [perfplot](https://github.com/nschloe/perfplot), [tuna](https://github.com/nschloe/tuna)
  * 🎨 plotting: [tikzplotlib](https://github.com/nschloe/tikzplotlib/), [dufte](https://github.com/nschloe/dufte), [termplotlib](https://github.com/nschloe/termplotlib), [colorio](https://github.com/nschloe/colorio)
 
+
+#### GitHub stats
 <a href="https://github.com/nschloe">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nschloe&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nschloe&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
 </a>
+
+#### Stackoverflow stats
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=353337&layout=compact&theme=dark"/>
