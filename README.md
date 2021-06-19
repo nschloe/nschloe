@@ -1,5 +1,7 @@
 Nico from Berlin, math nerd and top-tier software engineer.
 
+<img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="15%"/>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
