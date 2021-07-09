@@ -25,7 +25,7 @@ Nico from Berlin, math nerd and top-tier software engineer.
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nschloe&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
 </a>
 <a href="https://stackoverflow.com/users/353337/nico-schl%c3%b6mer">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=353337&layout=compact&theme=dark" />
+  <img src="https://stackoverflow-card.vercel.app/?userID=353337&theme=dracula" />
 </a>
 
 
