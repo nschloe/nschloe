@@ -14,10 +14,11 @@ Nico from Berlin, math nerd and top-tier software engineer.
 
 ### Popular projects
 
-- 📐 math: [quadpy](https://github.com/nschloe/quadpy). [orthopy](https://github.com/nschloe/orthopy), [accupy](https://github.com/nschloe/accupy), [pacopy](https://github.com/nschloe/pacopy), [pyfvm](https://github.com/nschloe/pyfvm)
+- 📐 math: [quadpy](https://github.com/nschloe/quadpy). [orthopy](https://github.com/nschloe/orthopy), [accupy](https://github.com/nschloe/accupy), [pacopy](https://github.com/nschloe/pacopy), [pyfvm](https://github.com/nschloe/pyfvm), [krylov](https://github.com/nschloe/krylov)
 - 🕸 meshing: [meshio](https://github.com/nschloe/meshio/), [pygmsh](https://github.com/nschloe/pygmsh), [pygalmesh](https://github.com/nschloe/pygalmesh), [optimesh](https://github.com/nschloe/optimesh), [meshzoo](https://github.com/nschloe/meshzoo), [dmsh](https://github.com/nschloe/dmsh), [meshplex](https://github.com/nschloe/meshplex)
 - 🚀 performance: [perfplot](https://github.com/nschloe/perfplot), [tuna](https://github.com/nschloe/tuna)
-- 🎨 plotting: [tikzplotlib](https://github.com/nschloe/tikzplotlib/), [dufte](https://github.com/nschloe/dufte), [termplotlib](https://github.com/nschloe/termplotlib), [colorio](https://github.com/nschloe/colorio), [cplot](https://github.com/nschloe/cplot)
+- 🎨 plotting: [tikzplotlib](https://github.com/nschloe/tikzplotlib/), [dufte](https://github.com/nschloe/dufte), [termplotlib](https://github.com/nschloe/termplotlib), [colorio](https://github.com/nschloe/colorio), [cplot](https://github.com/nschloe/cplot), [matplotx](https://github.com/nschloe/matplotx)
+- 💻 [xhub](https://github.com/nschloe/xhub), [stackoverflow-card](https://github.com/nschloe/stackoverflow-card/)
 
 #### Stats
 
