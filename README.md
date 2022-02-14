@@ -1,5 +1,9 @@
 Nico from Berlin, math nerd and top-tier software engineer.
 
+You can sponsor my open-source work at [GitHub
+Sponsors](https://github.com/sponsors/nschloe/). You'll also find information
+on consulting/code-for-hire there.
+
 <a href="https://github.com/nschloe/optimesh">
   <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
 </a>
