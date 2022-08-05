@@ -33,6 +33,7 @@ on consulting/code-for-hire there.
 <a href="https://stackoverflow.com/users/353337/nico-schl%c3%b6mer">
   <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=353337&theme=dracula&showBorder=false" />
 </a>
+<img height="137px" src="http://github-readme-streak-stats.herokuapp.com?user=nschloe&theme=dark"/>
 
 #### Find me
 
