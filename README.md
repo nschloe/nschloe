@@ -38,7 +38,9 @@ on consulting/code-for-hire there.
   [colorio](https://github.com/nschloe/colorio),
   [cplot](https://github.com/nschloe/cplot),
   [matplotx](https://github.com/nschloe/matplotx)
-- 💻 [xhub](https://github.com/nschloe/xhub), [stackoverflow-card](https://github.com/nschloe/stackoverflow-card/)
+- 💻 [xhub](https://github.com/nschloe/xhub),
+  [stackoverflow-card](https://github.com/nschloe/stackoverflow-card/),
+  [tiptop](https://github.com/nschloe/tiptop)
 
 #### Stats
 
