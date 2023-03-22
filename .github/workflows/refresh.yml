@@ -1,0 +1,20 @@
+name: update-images
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 1:37am every Sunday
+    - cron: "37 1 * * 0"
+
+jobs:
+  stackexchange:
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+
+      - run: |
+        # Get stars/tier card
+        curl "https://github-readme-stats.vercel.app/api?username=nschloe&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" > images/stars-tier.svg
+
+      # commit, push
+      - uses: stefanzweifel/git-auto-commit-action@v4
