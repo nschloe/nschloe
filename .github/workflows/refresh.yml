@@ -1,4 +1,4 @@
-name: update-images
+name: Update images
 
 on:
   workflow_dispatch:
@@ -7,7 +7,8 @@ on:
     - cron: "37 1 * * 0"
 
 jobs:
-  stackexchange:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repo
         uses: actions/checkout@v3
