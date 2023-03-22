@@ -46,11 +46,11 @@ on consulting/code-for-hire there.
 
 <a href="https://github.com/nschloe">
   <img height="137px" src="images/stars-tier.svg"/>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nschloe&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+  <img height="137px" src="images/languages.svg"/>
 </a>
-<img height="137px" src="http://github-readme-streak-stats.herokuapp.com?user=nschloe&theme=dracula&hide_border=true"/>
+<img height="137px" src="images/streak.svg"/>
 <a href="https://stackoverflow.com/users/353337/nico-schl%c3%b6mer">
-  <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=353337&theme=dracula&showBorder=false" />
+  <img height="137px" src="images/stackoverflow.svg" />
 </a>
 
 #### Find me
