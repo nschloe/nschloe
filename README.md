@@ -5,7 +5,7 @@ Sponsors](https://github.com/sponsors/nschloe/). You'll also find information
 on consulting/code-for-hire there.
 
 <a href="https://github.com/nschloe/optimesh">
-  <img src="https://meshpro.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
+  <img src="images/disk-smooth.webp" align="right" width="20%"/>
 </a>
 
 ### Languages
