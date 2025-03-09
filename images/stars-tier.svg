@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Nico Schl&#246;mer's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 15205, Total Commits  : 41629, Total PRs: 3467, Total Issues: 1367, Contributed to (last year): 30</desc>
+        <desc id="descId">Total Stars Earned: 15225, Total Commits  : 41612, Total PRs: 3467, Total Issues: 1367, Contributed to (last year): 30</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 21.305081015852718;
+        stroke-dashoffset: 21.304614339432415;
       }
     }
   
