@@ -11,6 +11,7 @@ on consulting/code-for-hire there.
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-f74c00?&logo=Rust&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 ![Fortran](https://img.shields.io/badge/-Fortran-734f96?&logo=Fortran)
@@ -49,9 +50,6 @@ on consulting/code-for-hire there.
   <img height="137px" src="images/languages.svg"/>
 </a>
 <img height="137px" src="images/streak.svg"/>
-<a href="https://stackoverflow.com/users/353337/nico-schl%c3%b6mer">
-  <img height="137px" src="images/stackoverflow.svg" />
-</a>
 
 #### Find me
 
