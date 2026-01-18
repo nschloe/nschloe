@@ -50,7 +50,7 @@
         
     <g fill="#f8f8f2"><svg aria-hidden="true" class="svg-icon iconReputation" width="16" height="16" viewBox="0 0 18 18"><path d="M12.1 2.55A1 1 0 0113 2h3.5a1 1 0 110 2h-2.88l-1.73 3.45A1 1 0 0111 8H6.17l-3.25 7.88a1 1 0 11-1.84-.76l3.5-8.5A1 1 0 015.5 6h4.88l1.73-3.45z"/><path d="M1 3a1 1 0 011-1h6a1 1 0 110 2H2a1 1 0 01-1-1zm0 4a1 1 0 112 0 1 1 0 0 1-2 0zm14-1a1 1 0 100 2h1a1 1 0 100-2h-1zm-8 5a1 1 0 011-1h8a1 1 0 110 2H8a1 1 0 01-1-1zm-1 3a1 1 0 100 2h10a1 1 0 100-2H6z" opacity=".2"/></svg></g>
     <text x="25" y="12.5" fill="">Reputation this Year:</text>
-    <text x="160" y="12.5">+0</text>
+    <text x="160" y="12.5">+10</text>
   
       </g>
       <g class="fadein" style="animation-delay: 700ms" transform="translate(25, 95)">
