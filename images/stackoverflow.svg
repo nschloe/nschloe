@@ -57,7 +57,30 @@
         
     <g fill="#f8f8f2"><svg aria-hidden="true" class="svg-icon iconAchievementsSm" width="16" height="16" viewBox="0 0 14 14"><path d="M11 2V1H3v1H0v3c0 1.6 1.4 3 3 3 0 0 .5 2 3 2v1H4s-1 1.5-1 2h8c0-.4-1-2-1-2H8v-1c2.5 0 3-2 3-2 1.6-.2 3-1.4 3-3V2h-3zM3 6c-.5 0-1-.5-1-1V4h1v2zm9-1c0 .5-.5 1-1 1V4h1v1zM7 7a2 2 0 110-4 2 2 0 0 1 0 4z"/></svg></g>
     <text x="25" y="12.5" fill="">Rating:</text>
-    <text x="160" y="12.5"></text>
+    <text x="160" y="12.5">
+
+    
+    Forbidden - Stack Exchange
+    body{background:#fff url(data:text/html;charset=utf-8;base64,PGh0bWw+CjxoZWFkPgogICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiIC8+CiAgICA8dGl0bGU+Rm9yYmlkZGVuIC0gU3RhY2sgRXhjaGFuZ2U8L3RpdGxlPgogICAgPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCQlib2R5CgkJewoJCQljb2xvcjogIzMzMzsKCQkJZm9udC1mYW1pbHk6ICdIZWx2ZXRpY2EgTmV1ZScsIEFyaWFsLCBzYW5zLXNlcmlmOwoJCQlmb250LXNpemU6IDE0cHg7CgkJCWJhY2tncm91bmQ6ICNmZmYgdXJsKCdpbWcvYmctbm9pc2UucG5nJykgcmVwZWF0IGxlZnQgdG9wOwoJCQlsaW5lLWhlaWdodDogMS40OwoJCX0KCQloMQoJCXsKCQkJZm9udC1zaXplOiAxNzAlOwoJCQlsaW5lLWhlaWdodDogMzRweDsKCQkJZm9udC13ZWlnaHQ6IG5vcm1hbDsKCQl9CgkJYSB7IGNvbG9yOiAjMzY2ZmIzOyB9CgkJYTp2aXNpdGVkIHsgY29sb3I6ICMxMjQ1N2M7IH0KCQkud3JhcHBlciB7CgkJCXdpZHRoOjk2MHB4OwoJCQltYXJnaW46IDEwMHB4IGF1dG87CgkJCXRleHQtYWxpZ246bGVmdDsKCQl9CgkJLm1zZyB7CgkJCWZsb2F0OiBsZWZ0OwoJCQl3aWR0aDogNzAwcHg7CgkJCXBhZGRpbmctdG9wOiAxOHB4OwoJCQltYXJnaW4tbGVmdDogMThweDsKCQl9CiAgICA8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5PgogICAgPGRpdiBjbGFzcz0id3JhcHBlciI+CgkJPGRpdiBzdHlsZT0iZmxvYXQ6IGxlZnQ7Ij4KCQkJPGltZyBzcmM9Imh0dHBzOi8vY2RuLnNzdGF0aWMubmV0L3N0YWNrZXhjaGFuZ2UvaW1nL2FwcGxlLXRvdWNoLWljb24ucG5nIiBhbHQ9IlN0YWNrIEV4Y2hhbmdlIiAvPgoJCTwvZGl2PgoJCTxkaXYgY2xhc3M9Im1zZyI+CgkJCTxoMT5BY2Nlc3MgRGVuaWVkPC9oMT4KICAgICAgICAgICAgICAgICAgICAgICAgPHA+VGhpcyBJUCBhZGRyZXNzIDo6Q0xJRU5UX0lQOjogaGFzIGJlZW4gYmxvY2tlZCBmcm9tIGFjY2VzcyB0byBvdXIgc2VydmljZXMuIElmIHlvdSBiZWxpZXZlIHRoaXMgdG8gYmUgaW4gZXJyb3IsIHBsZWFzZSBjb250YWN0IHVzIGF0IDxhIGhyZWY9Im1haWx0bzp0ZWFtQHN0YWNrZXhjaGFuZ2UuY29tP1N1YmplY3Q9QmxvY2tlZCUyMCJ9ICsgY2xpZW50LmlwICsgeyIlMjAoUmVxdWVzdCUyMElEJTNBJTIwIn0gKyByZXEueGlkICsgIi0iICsgc2VydmVyLmRhdGFjZW50ZXIgeyIpIj50ZWFtQHN0YWNrZXhjaGFuZ2UuY29tPC9hPi48L3A+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwPldoZW4gY29udGFjdGluZyB1cywgcGxlYXNlIGluY2x1ZGUgdGhlIGZvbGxvd2luZyBpbmZvcm1hdGlvbiBpbiB0aGUgZW1haWw6PC9wPgogICAgICAgICAgICAgICAgICAgICAgICA8cD5NZXRob2Q6IGJsb2NrPC9wPgogICAgICAgICAgICAgICAgICAgICAgICA8cD5JUDogOjpDTElFTlRfSVA6OjwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgPHA+UkFZIElEOiA6OlJBWV9JRDo6PC9wPgogICAgICAgICAgICAgICAgICAgICAgICA8cD5HRU86IDo6R0VPOjo8L3A+CgkJPC9kaXY+Cgk8L2Rpdj4KCTxzY3JpcHQ+ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2pzbG9jYXRpb24nKS5pbm5lckhUTUwgPSB3aW5kb3cubG9jYXRpb24uaHJlZjs8L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+) repeat 0 0;color:#333;font-family:Helvetica Neue,Arial,sans-serif;font-size:14px;line-height:1.4}h1{font-size:170%;font-weight:400;line-height:34px}a{color:#366fb3}a:visited{color:#12457c}.wrapper{margin:100px auto;text-align:left;width:960px}.msg{float:left;margin-left:18px;padding-top:18px;width:700px}
+
+
+    
+		
+			
+		
+		
+			Access Denied
+                        This IP address 100.31.131.134 has been blocked from access to our services. If you believe this to be in error, please contact us at [email&#160;protected].
+                        When contacting us, please include the following information in the email:
+                        Method: block
+                        IP: 100.31.131.134
+                        RAY ID: a4526dbcca7e290e
+                        GEO: US
+		
+	
+	document.getElementById("jslocation").innerHTML=window.location.href;
+window.__CF$cv$params={r:'a4526dbcca7e290e',t:'MTc5MTA5ODQ3NQ==',u:'01a105c9d1fd71a4ad8ba61c0da717b2',ut:'29tKC9u5M5rYF2BXU7nJpREiKcVxPZIglP6aAK1avWA-1791098475-1.2.1.1-ZnUCvPk.g6JHtmdKWLtUQD.J74TKbdDzWrFOsnm9RjCZLzamP6VsCx5xQ_V9mMM.4QIC2VCmfS5.adC8_0TL4GIhBPRK_nUeVVLKuz8VRF8',i:60};(function(){if(!document.body)return;var s=document.createElement('script');s.src='/cdn-cgi/challenge-platform/scripts/precursor/main.js';document.head.appendChild(s);})();
+</text>
   
       </g>
       <g class="fadein" style="animation-delay: 900ms" transform="translate(25, 115)">
